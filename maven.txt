@@ -1,7 +1,0 @@
-mvn package---to build project
->java -cp target\my-project1-1.0-SNAPSHOT.jar com.mycompany.app.App ---->to run App.java
->mvn validate
->mvn compile
->mvn test
-mvn test,compile,install --we use
->mvn install----when developer gives branch(code)-we have to pull karnar -then use mvn clean install on that code
